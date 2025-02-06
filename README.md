@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://](https://github.com/yash-maske/yash-maske))
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.vectorstock.com/i/2000v/39/11/programming-and-software-development-web-page-vector-30433911.avif))]([https://](https://github.com/yash-maske/yash-maske))
 <h1 align="center">Hi 👋, I'm Yash Maske</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" altt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
