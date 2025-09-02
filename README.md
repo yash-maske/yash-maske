@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **Django, React Native & Machine Learning**
 
-- 🤝 I’m looking for help with **Blood Group Detection Using FingerPrint**
 
 - 💬 Ask me about **React, Restfull API's**
 
